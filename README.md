@@ -5,6 +5,13 @@ You can find each game as a different branch. All the links are in the readme fi
 
 ----------------------------------------------------------------------------------
 
+Magic Tiki:
+![image](https://user-images.githubusercontent.com/59585655/161362205-19465c99-66fa-4e3c-8119-02c2822848a7.png)
+
+Magic Tiki Link: https://magic-tiki.netlify.app/
+
+----------------------------------------------------------------------------------
+
 Aerial Attack:
 
 ![image](https://user-images.githubusercontent.com/59585655/161183578-59664afb-e1c6-44fc-811a-4bb770c04d98.png)
