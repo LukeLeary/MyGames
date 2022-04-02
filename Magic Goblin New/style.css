@@ -1,0 +1,38 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(134, 156, 139);
+}
+
+.mtTitle {
+  color: white;
+  font-size: 80px;
+  font-family: Arial;
+  display: block;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+canvas {
+  border: 2px solid black;
+  outline: #c9e7cb solid 10px;
+
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.lltext {
+  color: white;
+  font-size: 20px;
+  font-family: Arial;
+  display: block;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
